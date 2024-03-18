@@ -11,6 +11,7 @@ Furthermore, it is crucial to securely store the data collected by the system. T
 
 ![image](https://github.com/RominaDehghani/smart-textile/assets/129296090/10849364-ac60-4f8e-a89e-75909584711f)
 
-![image](https://github.com/RominaDehghani/smart-textile/assets/129296090/0f54c2be-6080-43f0-9a78-36091773c415)
+![image](https://github.com/RominaDehghani/smart-textile/assets/129296090/5be2b017-d82e-42df-a91f-9da758e51927)
+
 
 
